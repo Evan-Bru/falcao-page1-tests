@@ -1,9 +1,10 @@
 header{
     display: flex;
-    width: 1440px;
+    width: 1200px;
     height: 60px;
     padding: 0px 120px;
     align-items: center;
+    justify-content: center; /* Ajuste para garantir que os elementos fiquem no centro */
     gap: 40px;
     flex-shrink: 0;
     border-bottom: 1px solid #2E2E32;
